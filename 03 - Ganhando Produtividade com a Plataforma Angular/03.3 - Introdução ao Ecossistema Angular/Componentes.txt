@@ -1,0 +1,11 @@
+Componentes são blocos básicos de construção em aplicações web modernas,
+ incluindo aplicações Angular. Eles representam uma parte específica
+ da interface do usuário e encapsulam sua lógica de exibição e 
+ comportamento. Os componentes são compostos de um arquivo TypeScript, 
+ um arquivo de modelo HTML e um arquivo de estilo CSS, que juntos definem 
+ a aparência e o comportamento do componente.
+
+Os componentes em Angular são definidos usando a classe @Component, 
+que é decorada com um objeto de metadados que descreve o comportamento do componente. 
+O objeto de metadados inclui informações sobre o seletor do componente, 
+seu template, estilos, bem como outras propriedades.
